@@ -1,1 +1,4 @@
-# Terrabots-Work Work on Robot Arm
+robotArm
+========
+
+Code for using the TeraArm to manipulate world objects.
